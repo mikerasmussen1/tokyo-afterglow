@@ -1,0 +1,380 @@
+[
+  {
+    "id": "ema",
+    "label": "Ema plaque",
+    "x": 32.43055555555556,
+    "y": 27.421875,
+    "w": 5.694444444444445,
+    "rotation": 0,
+    "bbox": [
+      213,
+      317,
+      254,
+      385
+    ],
+    "sceneAsset": "v7/kyoto-ema.png",
+    "canonicalAsset": "v7/kyoto-ema-key.png",
+    "role": "An ochre prayer plaque hanging among the shrine timbers",
+    "visibleFraction": 0.954,
+    "difficulty": 0,
+    "hitX": 32.43055555555556,
+    "hitY": 27.421875
+  },
+  {
+    "id": "geta",
+    "label": "Geta sandals",
+    "x": 68.61111111111111,
+    "y": 95.0,
+    "w": 11.11111111111111,
+    "rotation": 0,
+    "bbox": [
+      454,
+      1190,
+      534,
+      1242
+    ],
+    "sceneAsset": "v7/kyoto-geta.png",
+    "canonicalAsset": "v7/kyoto-geta-key.png",
+    "role": "A pair of worn wooden sandals on the tea-platform step",
+    "visibleFraction": 0.988,
+    "difficulty": 0,
+    "hitX": 68.61111111111111,
+    "hitY": 95.0
+  },
+  {
+    "id": "crackers",
+    "label": "Deer crackers",
+    "x": 87.70833333333333,
+    "y": 78.75,
+    "w": 9.86111111111111,
+    "rotation": 0,
+    "bbox": [
+      596,
+      991,
+      667,
+      1025
+    ],
+    "sceneAsset": "v7/kyoto-crackers.png",
+    "canonicalAsset": "v7/kyoto-crackers-key.png",
+    "role": "A stack of ochre senbei on the deer-feeding tray",
+    "visibleFraction": 0.993,
+    "difficulty": 0,
+    "hitX": 87.70833333333333,
+    "hitY": 78.75
+  },
+  {
+    "id": "helmet",
+    "label": "Samurai helmet",
+    "x": 31.805555555555554,
+    "y": 19.4140625,
+    "w": 6.388888888888888,
+    "rotation": 0,
+    "bbox": [
+      206,
+      224,
+      252,
+      273
+    ],
+    "sceneAsset": "v7/kyoto-helmet.png",
+    "canonicalAsset": "v7/kyoto-helmet-key.png",
+    "role": "A dark bronze kabuto fitted behind the torii crossbeam",
+    "visibleFraction": 0.79,
+    "difficulty": 2,
+    "hitX": 31.805555555555554,
+    "hitY": 19.4140625
+  },
+  {
+    "id": "foxmask",
+    "label": "Fox mask",
+    "x": 12.291666666666666,
+    "y": 33.984375,
+    "w": 4.583333333333333,
+    "rotation": 0,
+    "bbox": [
+      72,
+      414,
+      105,
+      456
+    ],
+    "sceneAsset": "v7/kyoto-foxmask.png",
+    "canonicalAsset": "v7/kyoto-foxmask-key.png",
+    "role": "A weathered stone fox-face guardian ornament against the pedestal",
+    "visibleFraction": 0.944,
+    "difficulty": 1,
+    "hitX": 12.291666666666666,
+    "hitY": 33.984375
+  },
+  {
+    "id": "katana",
+    "label": "Sheathed katana",
+    "x": 88.75,
+    "y": 29.4921875,
+    "w": 13.055555555555557,
+    "rotation": 0,
+    "bbox": [
+      592,
+      360,
+      686,
+      395
+    ],
+    "sceneAsset": "v7/kyoto-katana.png",
+    "canonicalAsset": "v7/kyoto-katana-key.png",
+    "role": "A sheathed sword lying along the machiya fascia",
+    "visibleFraction": 1.0,
+    "difficulty": 1,
+    "hitX": 88.75,
+    "hitY": 29.4921875
+  },
+  {
+    "id": "kanzashi",
+    "label": "Flower hair ornament",
+    "x": 67.01388888888889,
+    "y": 38.28125,
+    "w": 3.75,
+    "rotation": 0,
+    "bbox": [
+      469,
+      455,
+      496,
+      525
+    ],
+    "sceneAsset": "v7/kyoto-kanzashi.png",
+    "canonicalAsset": "v7/kyoto-kanzashi-key.png",
+    "role": "A flower tassel hanging among the Gion eave fittings",
+    "visibleFraction": 1.0,
+    "difficulty": 1,
+    "hitX": 67.01388888888889,
+    "hitY": 38.28125
+  },
+  {
+    "id": "sumo",
+    "label": "Sumo wrestler",
+    "x": 96.875,
+    "y": 46.9921875,
+    "w": 4.861111111111112,
+    "rotation": 0,
+    "bbox": [
+      680,
+      571,
+      715,
+      632
+    ],
+    "sceneAsset": "v7/kyoto-sumo.png",
+    "canonicalAsset": "v7/kyoto-sumo-key.png",
+    "role": "A small wooden wrestler guardian standing on the doorstep",
+    "visibleFraction": 0.982,
+    "difficulty": 1,
+    "hitX": 93.88888888888889,
+    "hitY": 46.9921875
+  },
+  {
+    "id": "monkey",
+    "label": "Snow monkey",
+    "x": 11.319444444444445,
+    "y": 69.921875,
+    "w": 5.694444444444445,
+    "rotation": 0,
+    "bbox": [
+      61,
+      864,
+      102,
+      926
+    ],
+    "sceneAsset": "v7/kyoto-monkey.png",
+    "canonicalAsset": "v7/kyoto-monkey-key.png",
+    "role": "A moss-gray macaque nestled against the bamboo riverbank rock",
+    "visibleFraction": 0.955,
+    "difficulty": 1,
+    "hitX": 11.319444444444445,
+    "hitY": 69.921875
+  },
+  {
+    "id": "whisk",
+    "label": "Bamboo whisk",
+    "x": 39.23611111111111,
+    "y": 72.1875,
+    "w": 5.138888888888888,
+    "rotation": 0,
+    "bbox": [
+      264,
+      891,
+      301,
+      957
+    ],
+    "sceneAsset": "v7/kyoto-whisk.png",
+    "canonicalAsset": "v7/kyoto-whisk-key.png",
+    "role": "A bundle of curved chasen tines among the cut bamboo stems",
+    "visibleFraction": 1.0,
+    "difficulty": 1,
+    "hitX": 39.23611111111111,
+    "hitY": 72.1875
+  },
+  {
+    "id": "chanko",
+    "label": "Chanko hot pot",
+    "x": 6.388888888888888,
+    "y": 85.703125,
+    "w": 10.555555555555555,
+    "rotation": 0,
+    "bbox": [
+      8,
+      1072,
+      84,
+      1122
+    ],
+    "sceneAsset": "v7/kyoto-chanko.png",
+    "canonicalAsset": "v7/kyoto-chanko-key.png",
+    "role": "A dark iron stew pot resting in the barrel-top serving ring",
+    "visibleFraction": 0.981,
+    "difficulty": 1,
+    "hitX": 6.388888888888888,
+    "hitY": 85.703125
+  },
+  {
+    "id": "matcha",
+    "label": "Matcha bowl",
+    "x": 93.40277777777779,
+    "y": 91.25,
+    "w": 7.361111111111112,
+    "rotation": 0,
+    "bbox": [
+      646,
+      1145,
+      699,
+      1191
+    ],
+    "sceneAsset": "v7/kyoto-matcha.png",
+    "canonicalAsset": "v7/kyoto-matcha-key.png",
+    "role": "An olive tea bowl seated behind the tea-shelf front lip",
+    "visibleFraction": 0.968,
+    "difficulty": 1,
+    "hitX": 93.40277777777779,
+    "hitY": 91.25
+  },
+  {
+    "id": "daruma",
+    "label": "Daruma doll",
+    "bbox": [
+      42,
+      91,
+      89,
+      153
+    ],
+    "role": "A bark-brown daruma nestling in the maple fork, behind leaves",
+    "rotation": 0,
+    "sceneAsset": "v7/kyoto-daruma.png",
+    "canonicalAsset": "v7/kyoto-daruma-key.png",
+    "x": 9.097222222222221,
+    "y": 9.53125,
+    "w": 6.527777777777779,
+    "visibleFraction": 0.956,
+    "difficulty": 2,
+    "hitX": 9.097222222222221,
+    "hitY": 9.53125
+  },
+  {
+    "id": "temari",
+    "label": "Temari ball",
+    "bbox": [
+      651,
+      165,
+      697,
+      210
+    ],
+    "role": "An olive-gold thread ball caught among the upper-right maple twigs",
+    "rotation": 0,
+    "sceneAsset": "v7/kyoto-temari.png",
+    "canonicalAsset": "v7/kyoto-temari-key.png",
+    "x": 93.61111111111111,
+    "y": 14.6484375,
+    "w": 6.388888888888888,
+    "visibleFraction": 0.94,
+    "difficulty": 2,
+    "hitX": 93.61111111111111,
+    "hitY": 14.6484375
+  },
+  {
+    "id": "kettle",
+    "label": "Iron tea kettle",
+    "bbox": [
+      276,
+      1050,
+      332,
+      1110
+    ],
+    "role": "A dark iron kettle sitting among blue-green riverbank stones",
+    "rotation": 0,
+    "sceneAsset": "v7/kyoto-kettle.png",
+    "canonicalAsset": "v7/kyoto-kettle-key.png",
+    "x": 42.22222222222222,
+    "y": 84.375,
+    "w": 7.777777777777778,
+    "visibleFraction": 1.0,
+    "difficulty": 1,
+    "hitX": 42.22222222222222,
+    "hitY": 84.375
+  },
+  {
+    "id": "yatsuhashi",
+    "label": "Yatsuhashi sweets",
+    "bbox": [
+      480,
+      213,
+      538,
+      265
+    ],
+    "role": "Two folded sweets used as a pagoda-eave offering ornament",
+    "rotation": 0,
+    "sceneAsset": "v7/kyoto-yatsuhashi.png",
+    "canonicalAsset": "v7/kyoto-yatsuhashi-key.png",
+    "x": 70.69444444444444,
+    "y": 18.671875,
+    "w": 8.055555555555555,
+    "visibleFraction": 0.991,
+    "difficulty": 1,
+    "hitX": 70.69444444444444,
+    "hitY": 18.671875
+  },
+  {
+    "id": "dango",
+    "label": "Dango skewer",
+    "bbox": [
+      173,
+      490,
+      239,
+      528
+    ],
+    "role": "Three round shrine offerings on a skewer beside the lantern cord",
+    "rotation": 0,
+    "sceneAsset": "v7/kyoto-dango.png",
+    "canonicalAsset": "v7/kyoto-dango-key.png",
+    "x": 28.61111111111111,
+    "y": 39.765625,
+    "w": 9.166666666666666,
+    "visibleFraction": 0.979,
+    "difficulty": 1,
+    "hitX": 28.61111111111111,
+    "hitY": 39.765625
+  },
+  {
+    "id": "kokeshi",
+    "label": "Kokeshi doll",
+    "bbox": [
+      650,
+      802,
+      690,
+      874
+    ],
+    "role": "A small wooden kokeshi guardian beside the deer-park temple post",
+    "rotation": 0,
+    "sceneAsset": "v7/kyoto-kokeshi.png",
+    "canonicalAsset": "v7/kyoto-kokeshi-key.png",
+    "x": 93.05555555555556,
+    "y": 65.46875,
+    "w": 5.555555555555555,
+    "visibleFraction": 1.0,
+    "difficulty": 1,
+    "hitX": 93.05555555555556,
+    "hitY": 65.46875
+  }
+]
